@@ -1,0 +1,15 @@
+{
+  "name": "npm-learn",
+  "version": "1.0.0",
+  "description": "Testowy plik do nauki npm'a",
+  "main": "index.js",
+  "scripts": {
+    "test": "jaa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-learn"
+  },
+  "author": "Jadwiga",
+  "license": "ISC"
+}

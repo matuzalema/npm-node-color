@@ -1,15 +1,14 @@
 {
   "name": "npm-learn",
   "version": "1.0.0",
-  "description": "Testowy plik do nauki npm'a",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jaa"
-  },
-  "repository": {
-    "type": "git",
-    "url": "npm-learn"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jadwiga",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
 }
